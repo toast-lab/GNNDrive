@@ -117,13 +117,3 @@ Follow the instructions below to install the requirements and run an example usi
     > 2. `--world-size` indicates the number of subprocesses used for training.
 
 
-
-## Maintainer
-
-Qisheng Jiang (jiangqsh@shanghaitech.edu.cn)
-
-Lei Jia (jialei2022@shanghaitech.edu.cn)
-
-## Acknowledgements
-
-We thank authors of [Ginex](https://dl.acm.org/doi/10.14778/3551793.3551819) for providing the source code of Ginex and PyG+. Our implementation uses some funtions  of [Ginex](https://github.com/SNU-ARC/Ginex.git).
