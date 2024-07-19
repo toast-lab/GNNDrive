@@ -95,7 +95,7 @@ Follow the instructions below to install the requirements and run an example usi
         --feature-cache-size 6000000000 --sb-size 1500
     ```
 
-6. Run . 
+6. Run GNNDrive
     ```shell
     # run without data parallelism in GPU 
     python3 run_async.py --compute-type gpu
